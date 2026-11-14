@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../FIFO_Test/FIFO_Test.vcxproj" Id="3879a4cb-15ca-4d3a-a7d4-8abdf4b64726" />
+  <Project Path="FIFO_Page_Replacement.vcxproj" Id="f332029d-8a3c-4f83-87e1-f5f7ecc2a32a" />
+</Solution>
