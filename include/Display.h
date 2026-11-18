@@ -1,3 +1,4 @@
+
 #ifndef DISPLAY_H
 #define DISPLAY_H
 
@@ -10,6 +11,11 @@ void displayHeader();
 void displayInputData(const InputData& data);
 
 void displayFIFO(const InputData& data, const FIFOResult& result);
+
+void displayDetailedProcessing(
+	const InputData& data,
+	const FIFOResult& result
+);
 
 void displayStatisticsResult(const Statistics& stats);
 

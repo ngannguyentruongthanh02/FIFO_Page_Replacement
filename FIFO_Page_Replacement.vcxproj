@@ -144,8 +144,8 @@
   <ItemGroup>
     <ClInclude Include="include\Display.h" />
     <ClInclude Include="include\FIFO.h" />
+    <ClInclude Include="include\Input.h" />
     <ClInclude Include="include\Statistics.h" />
-    <ClInclude Include="Input.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Display.cpp" />
